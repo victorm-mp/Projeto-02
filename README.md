@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-[🔗 Clique aqui para acessar](https://victorm-mp.github.io/Projeto-02/)
+[🔗 Clique aqui para acessar](https://victorm-mp.github.io/Projeto2-Stage2/)
 
 ## Tecnologias 🛠
 - HTML
