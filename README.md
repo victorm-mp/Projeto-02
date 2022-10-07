@@ -1,5 +1,4 @@
-# Projeto-02
-
+# Projeto 2 Stage 2 🚀 
 
 ![preview](./.github/preview.png)
 
